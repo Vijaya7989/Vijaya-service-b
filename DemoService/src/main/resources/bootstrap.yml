@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: child
+  profiles:
+    active: ${ACTIVE_PROFILE:dev}
