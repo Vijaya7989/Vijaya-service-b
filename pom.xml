@@ -62,6 +62,8 @@
 
 	<modules>
 		<module>DemoService</module>
+		<module>ServiceA</module>
+		<module>ServiceB</module>
 	</modules>
 
 </project>
